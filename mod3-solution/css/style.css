@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    font-family: 'PT Mono', monospace;
+}
+
+#header-nav {
+    background-color: #e9cffe;
+    border-bottom: 1px solid black;
+}
+
+#brand-name {
+    font-size: 2.25em;
+}
+
+#header-nav .navbar-collapse {
+    background-color: #e2dde6;
+    margin: 0px -16px -8px -16px;
+}
+
+.nav-item {
+    margin-left: 16px
+}
+
+h3 {
+    font-size: 1.5em;
+    padding-top: 10px;
+}
+
+.menu-text {
+    position: relative;
+    background-color: #ff9373;
+    opacity: 0.8;
+    padding: 0px 15px 30px 15px;
+    margin-bottom: 15px;
+}
+
+.back-to-top {
+    position: absolute;
+    bottom: 0;
+}
+
+.lorum-ipsum {
+    margin-bottom: 15px;
+}
